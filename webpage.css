@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+ table{
+            border:2 px solid black;
+            border-collapse: collapse;
+        }
+        th,td{
+            border: 2px solid   ;
+        
+            color: darkgreen;
+            background-color:fuchsia;
+        }
+        
+button:hover{
+    color: red;
+    background-color:rgb(25, 141, 43);
+}
+p{
+    color:darkorchid;
+    text-align: justify;
+}
